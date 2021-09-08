@@ -2,7 +2,7 @@
     <span>Ui-Clone</span>
 </h1>
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="150px" src="https://i.imgur.com/KDIDiSE.png" >
+    <img alt="Logo" title="#logo" width="200px" src="https://i.imgur.com/KDIDiSE.png" >
 </h3>
 
 <p align="center">
@@ -26,8 +26,8 @@
 ## Ui-Clone Facebook
 
 - [About](#about)
-- [Techs](#techs)
 - [The Application](#application)
+- [Techs](#techs)
 - [Clone and use for Free](#clone)
 
 <a id="about"></a>
@@ -35,6 +35,14 @@
 ## :interrobang: About
 
 A simple ui clone of the facebook post page, a simple application to work with components
+
+<a id="application"></a>
+
+## :sparkles: The Application
+
+<h1 align="center">
+    <img alt="home" src="github/page.png">
+</h1>
 
 <a id="techs"></a>
 
@@ -46,14 +54,6 @@ The project was developed with the technologies below:
 - [Typescript](https://www.typescriptlang.org/)
 - [React Js](https://pt-br.reactjs.org/)
 
-<a id="application"></a>
-
-## :sparkles: The Application
-
-<h1 align="center">
-    <img alt="home" src="github/page.png">
-</h1>
-
 <a id="clone"></a>
 
 ## :octocat:Clone this repo
@@ -61,12 +61,22 @@ The project was developed with the technologies below:
 1. Clone :
 
 ```sh
-  $ git clone https://github.com/VictorGabrielMS/instagram_feed.git
+  $ git clone https://github.com/VictorGabrielMS/uiclone_facebook_postpage.git
 ```
 
 2. Execute:
 
 ```sh
-  $ npm install
-  $ npm run android
+  $ cd uiclone_facebook_postpage
 ```
+
+3. Execute:
+
+```sh
+  $ npm install
+  $ npm run start
+```
+
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
