@@ -64,7 +64,7 @@ The project was developed with the technologies below:
   $ git clone https://github.com/VictorGabrielMS/uiclone_facebook_postpage.git
 ```
 
-2. Execute:
+2. Go to folder:
 
 ```sh
   $ cd uiclone_facebook_postpage
